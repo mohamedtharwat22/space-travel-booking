@@ -32,15 +32,3 @@ npm install
 npm run dev
 ```
 
-## Deployment
-- **Frontend**: Deployed on Vercel.
-- **Backend**: Deployed on Render/Heroku.
-- **Database**: Cloud PostgreSQL.
-
-## Live Demo & Repo
-- 🌍 **Frontend**: [Vercel Live Link]
-- 🚀 **Backend**: [Render Live Link]
-- 📂 **GitHub Repo**: [https://github.com/yourusername/space-travel-booking](https://github.com/yourusername/space-travel-booking)
-
----
-👨‍🚀 Get ready for an interstellar adventure! 🛰️
